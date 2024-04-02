@@ -45,6 +45,9 @@ To run this application locally or contribute to it, follow these steps:
    cd client
    npm install
 
+   cd backend
+   npm install
+
 3. Run both frontend and backend:
    
     ```bash
